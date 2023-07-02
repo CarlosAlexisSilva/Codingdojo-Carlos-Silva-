@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ekliptica
+Hola soy Carlos, soy ingeniero agrónomo trabajo como cientista de datos 
 - 👀 I’m interested in data cients 
 - 🌱  I am learning data science 
 - 💞️ I’m looking to collaborate with partners
